@@ -10,6 +10,11 @@ switch(card) {
   case 6:
       count++;
       break;
+  case 7:
+  case 8:
+  case 9:
+    count = count;
+    break;
   case 10:
   case 'J':
   case 'Q':
