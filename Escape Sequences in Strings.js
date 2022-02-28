@@ -7,4 +7,4 @@ You will need to use escape sequences to insert special characters correctly. Yo
 
 
 
-const myStr = "FirstLine \n\t\\SecondLine\nThirdLine"; // Change this line
+const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Change this line
